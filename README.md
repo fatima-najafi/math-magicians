@@ -114,7 +114,7 @@ npm start
 
 👤 **Fatima Najafi**
 
-- GitHub: [@Gh-Reza](https://github.com/fatima-najafi/math-magicians)
+- GitHub: [@fatima-najafi](https://github.com/fatima-najafi/math-magicians)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
