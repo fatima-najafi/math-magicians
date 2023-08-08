@@ -1,3 +1,4 @@
+/* eslint-disable react/button-has-type */
 import React from 'react';
 import './Calculator.css';
 import ButtonDiv from './ButtonDiv';
