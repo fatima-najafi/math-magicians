@@ -13,13 +13,13 @@
   margin: 100px auto;
 }
 
-.input {
+.display {
   width: 100%;
   height: 60px;
   display: flex;
   flex-direction: row;
-  justify-content: center;
-  align-items: center;
+  justify-content: right;
+  align-items: right;
   background-color: #858694;
   color: #fff;
   font-size: 30px;
@@ -31,10 +31,10 @@
   box-shadow: 5px 5px 15px rgb(0, 0, 0.2);
 }
 
-.input::placeholder {
+/* .input::placeholder {
   color: #fff;
   display: flex;
-}
+} */
 
 .parent {
   display: grid;
