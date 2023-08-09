@@ -1,4 +1,5 @@
-import Calculator from './components/calculator.js';
+/* eslint-disable import/extensions */
+import Calculator from './components/calculator';
 
 function App() {
   return (
