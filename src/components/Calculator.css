@@ -20,7 +20,7 @@
   flex-direction: row;
   justify-content: right;
   align-items: center;
-    background-color: #e3dfdf;
+  background-color: #e3dfdf;
   font-size: 30px;
   padding: 17px;
   text-align: right;
@@ -29,6 +29,7 @@
   border-radius: 10px;
   box-shadow: 5px 5px 15px rgb(0, 0, 0.2);
 }
+
 .parent {
   display: grid;
   grid-template-columns: auto auto auto auto;
@@ -52,7 +53,7 @@
   grid-column: 1/3;
   background-color: rgba(199, 199, 199, 0.995);
   border: 0;
-   font-size: 22px;
+  font-size: 22px;
 }
 
 .button-color {
