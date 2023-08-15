@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 
 import './Quete.css';
 
-function Fetch() {
+function Quote() {
   const [data, setData] = useState([]);
   const [Loading, setLoading] = useState(false);
   const [Error, setError] = useState(false);
@@ -48,4 +48,4 @@ function Fetch() {
   );
 }
 
-export default Fetch;
+export default Quote;
