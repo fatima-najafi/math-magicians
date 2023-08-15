@@ -7,10 +7,15 @@
 .calculator {
   display: flex;
   flex-direction: column;
-  justify-content: center;
-  align-items: center;
+  margin-left: 50%;
   width: 400px;
-  margin: 100px auto;
+  margin-bottom: 50px;
+}
+
+.text-p {
+  font-size: 22px;
+  margin-left: 200px;
+  margin-top: 60px;
 }
 
 .display {

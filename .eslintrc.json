@@ -61,6 +61,8 @@
     "import/no-unresolved": "off",
     "no-shadow": "off",
     "react-a11y/your-rule-name": "off"
+  
+
     // Other rules
   },
   "overrides": [
