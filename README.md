@@ -38,7 +38,6 @@
   <summary>Client</summary>
   <ul>
     <li>React</li>
-    <li>Bootstrap</li>
     <li>Webpack</li>
     <li>Jest</li>
   </ul>
