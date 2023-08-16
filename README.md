@@ -52,7 +52,9 @@
 
 - **Created with react**
 - **Calculate simple math experassions**
-- <!-- LIVE DEMO -->
+- - <!-- LIVE DEMO -->
+- ## 🚀 Live Demo <a name="live-demo"></a>
+
   - [Live Demo Link](https://fatima-najafi.github.io/math-magicians/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
