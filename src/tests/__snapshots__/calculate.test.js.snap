@@ -1,0 +1,81 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test the operates it return the division of numbers 1`] = `
+Object {
+  "next": null,
+  "operation": null,
+  "total": "1",
+}
+`;
+
+exports[`Test the operates it should return the modulus of numbers 1`] = `
+Object {
+  "next": null,
+  "operation": null,
+  "total": "0",
+}
+`;
+
+exports[`Test the operates it should return the multiplication of numbers 1`] = `
+Object {
+  "next": null,
+  "operation": null,
+  "total": "9",
+}
+`;
+
+exports[`Test the operates it should return the subtraction of numbers 1`] = `
+Object {
+  "next": null,
+  "operation": null,
+  "total": "0",
+}
+`;
+
+exports[`Test the operates it should return the sum of numbers 1`] = `
+Object {
+  "next": null,
+  "operation": null,
+  "total": "6",
+}
+`;
+
+exports[`Test the operates should return the division of numbers 1`] = `
+Object {
+  "next": null,
+  "operation": null,
+  "total": "1",
+}
+`;
+
+exports[`Test the operates should return the modulus of numbers 1`] = `
+Object {
+  "next": null,
+  "operation": null,
+  "total": "0",
+}
+`;
+
+exports[`Test the operates should return the multiplication of numbers 1`] = `
+Object {
+  "next": null,
+  "operation": null,
+  "total": "9",
+}
+`;
+
+exports[`Test the operates should return the subtraction of numbers 1`] = `
+Object {
+  "next": null,
+  "operation": null,
+  "total": "0",
+}
+`;
+
+exports[`Test the operates should return the sum of numbers 1`] = `
+Object {
+  "next": null,
+  "operation": null,
+  "total": "6",
+}
+`;

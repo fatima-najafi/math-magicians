@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<div>
+  <div
+    class="home"
+  >
+    <h2>
+      Welcome to our page
+    </h2>
+    <div
+      class="content"
+    >
+      <p
+        class="text"
+      >
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolores quo labore rerum sunt debitis vitae odio mollitia neque, accusamus rem optio saepe corporis ipsa necessitatibus eaque, culpa ratione quidem! Repellendus. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolores quo labore rerum sunt debitis vitae odio mollitia neque, accusamus rem optio saepe corporis ipsa necessitatibus eaque, culpa ratione quidem! Repellendus.
+      </p>
+      <p
+        class="text"
+      >
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolores quo labore rerum sunt debitis vitae odio mollitia neque, accusamus rem optio saepe corporis ipsa necessitatibus eaque, culpa ratione quidem! Repellendus. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolores quo labore rerum sunt debitis vitae odio mollitia neque, accusamus rem optio saepe corporis ipsa necessitatibus eaque, culpa ratione quidem! Repellendus.
+      </p>
+    </div>
+  </div>
+</div>
+`;

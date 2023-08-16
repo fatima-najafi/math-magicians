@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders learn react link 1`] = `
+<a
+  href="/"
+>
+  Home
+</a>
+`;
+
+exports[`renders learn react link 2`] = `
+<a
+  href="/calculator"
+>
+  Calculator
+</a>
+`;
+
+exports[`renders learn react link 3`] = `
+<a
+  href="/quote"
+>
+  Quote
+</a>
+`;

@@ -1,16 +1,16 @@
 {
-  "name": "fatima",
+  "name": "math-magicains",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
-    "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "big.js": "^6.2.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.15.0",
     "react-scripts": "5.0.1",
+    "react-test-renderer": "^18.2.0",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -38,8 +38,10 @@
     ]
   },
   "devDependencies": {
+    "@testing-library/react": "^14.0.0",
     "eslint": "^8.46.0",
     "eslint-config-airbnb": "^19.0.4",
+    "jest": "^27.5.1",
     "stylelint": "^13.13.1",
     "stylelint-config-standard": "^21.0.0",
     "stylelint-csstree-validator": "^1.9.0",
