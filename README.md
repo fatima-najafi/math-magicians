@@ -14,7 +14,11 @@
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
+<<<<<<< HEAD
      - [🚀 Live Demo ](#-live-demo-)
+=======
+       - [🚀 Live Demo ](#-live-demo-)
+>>>>>>> 7223c89bace8dd427843533c6d26cb4ddf195cff
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites ](#prerequisites-)
     - [Setup ](#setup-)
@@ -52,10 +56,10 @@
 
 - **Created with react**
 - **Calculate simple math experassions**
-## 🚀 Live Demo <a name="live-demo"></a>
+- - <!-- LIVE DEMO -->
+- ## 🚀 Live Demo <a name="live-demo"></a>
 
-
-- [Live Demo Link](https://fatima-najafi.github.io/math-magicians/)
+  - [Live Demo Link](https://fatima-najafi.github.io/math-magicians/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
