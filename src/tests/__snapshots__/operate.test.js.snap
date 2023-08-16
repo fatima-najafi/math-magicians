@@ -9,3 +9,13 @@ exports[`Test the operates should multiply the numbers 1`] = `"2"`;
 exports[`Test the operates should subtract the numbers 1`] = `"2"`;
 
 exports[`Test the operates should sum the numbers 1`] = `"3"`;
+
+exports[`Test the operates you should calculate the modulus of the numbers 1`] = `"0"`;
+
+exports[`Test the operates you should divide the numbers 1`] = `"3"`;
+
+exports[`Test the operates you should multiply the numbers 1`] = `"2"`;
+
+exports[`Test the operates you should subtract the numbers 1`] = `"2"`;
+
+exports[`Test the operates you should sum the numbers 1`] = `"3"`;
