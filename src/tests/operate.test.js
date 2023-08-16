@@ -1,7 +1,7 @@
 import operate from '../logic/operate';
 
 describe('Test the operates', () => {
-  test('should subtract the numbers', () => {
+  test('you should subtract the numbers', () => {
     const a = 4;
     const b = 2;
     const operation = '-';
@@ -9,7 +9,7 @@ describe('Test the operates', () => {
     expect(operate(a, b, operation)).toMatchSnapshot();
   });
 
-  test('should sum the numbers', () => {
+  test('you should sum the numbers', () => {
     const a = 1;
     const b = 2;
     const operation = '+';
@@ -17,7 +17,7 @@ describe('Test the operates', () => {
     expect(operate(a, b, operation)).toMatchSnapshot();
   });
 
-  test('should divide the numbers', () => {
+  test('you should divide the numbers', () => {
     const a = 6;
     const b = 2;
     const operation = '/';
@@ -25,7 +25,7 @@ describe('Test the operates', () => {
     expect(operate(a, b, operation)).toMatchSnapshot();
   });
 
-  test('should calculate the modulus of the numbers', () => {
+  test('you should calculate the modulus of the numbers', () => {
     const a = 2;
     const b = 1;
     const operation = '%';
@@ -33,7 +33,7 @@ describe('Test the operates', () => {
     expect(operate(a, b, operation)).toMatchSnapshot();
   });
 
-  test('should multiply the numbers', () => {
+  test('you should multiply the numbers', () => {
     const a = 2;
     const b = 1;
     const operation = '*';
